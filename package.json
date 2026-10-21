@@ -23,7 +23,7 @@
     "icd-10",
     "mcp-server"
   ],
-  "author": "Cicatriiz",
+  "author": "andrewsalopek1",
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",

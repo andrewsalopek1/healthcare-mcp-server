@@ -6,16 +6,16 @@
   "description": "Healthcare MCP server providing AI assistants with access to healthcare data and medical information tools",
   "long_description": "A comprehensive Model Context Protocol (MCP) server that enables AI assistants to access healthcare data and medical information from authoritative sources. Features include FDA drug information, PubMed research search, health topics from Health.gov, clinical trials search, and ICD-10 code lookup. The server includes efficient caching, usage tracking, and robust error handling for reliable healthcare data access.",
   "author": {
-    "name": "Cicatriiz",
-    "url": "https://github.com/Cicatriiz"
+    "name": "andrewsalopek1",
+    "url": "https://github.com/andrewsalopek1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Cicatriiz/healthcare-mcp-public"
+    "url": "https://github.com/andrewsalopek1/healthcare-mcp-public"
   },
-  "homepage": "https://github.com/Cicatriiz/healthcare-mcp-public",
-  "documentation": "https://github.com/Cicatriiz/healthcare-mcp-public/blob/main/README.md",
-  "support": "https://github.com/Cicatriiz/healthcare-mcp-public/issues",
+  "homepage": "https://github.com/andrewsalopek1/healthcare-mcp-public",
+  "documentation": "https://github.com/andrewsalopek1/healthcare-mcp-public/blob/main/README.md",
+  "support": "https://github.com/andrewsalopek1/healthcare-mcp-public/issues",
   "server": {
     "type": "node",
     "entry_point": "server/index.js",

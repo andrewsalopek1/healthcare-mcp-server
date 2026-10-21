@@ -118,5 +118,5 @@ The same cleaned fields are returned; adverse reactions are in `results["adverse
 
 ### Need Help?
 
-Open a new issue or ping @Cicatriiz on GitHub.  
+Open a new issue or ping @andrewsalopek1 on GitHub.  
 Happy coding! 🚀
