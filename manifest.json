@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewsalopek1/healthcare-mcp-public"
+    "url": "https://github.com/andrewsalopek1/healthcare-mcp-server"
   },
-  "homepage": "https://github.com/andrewsalopek1/healthcare-mcp-public",
-  "documentation": "https://github.com/andrewsalopek1/healthcare-mcp-public/blob/main/README.md",
-  "support": "https://github.com/andrewsalopek1/healthcare-mcp-public/issues",
+  "homepage": "https://github.com/andrewsalopek1/healthcare-mcp-server",
+  "documentation": "https://github.com/andrewsalopek1/healthcare-mcp-server/blob/main/README.md",
+  "support": "https://github.com/andrewsalopek1/healthcare-mcp-server/issues",
   "server": {
     "type": "node",
     "entry_point": "server/index.js",

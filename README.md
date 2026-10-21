@@ -1,6 +1,6 @@
 # Healthcare MCP Server
 
-[![smithery badge](https://smithery.ai/badge/@andrewsalopek1/healthcare-mcp-public)](https://smithery.ai/server/@andrewsalopek1/healthcare-mcp-public)
+[![smithery badge](https://smithery.ai/badge/@andrewsalopek1/healthcare-mcp-server)](https://smithery.ai/server/@andrewsalopek1/healthcare-mcp-server)
 A Model Context Protocol (MCP) server providing AI assistants with access to healthcare data and medical information tools.
 
 ## Overview
@@ -40,10 +40,10 @@ This repository includes a packaged DXT (Desktop Extension) file for easy instal
 
 ### Option 2: Installing via Smithery
 
-To install Healthcare Data and Medical Information Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@andrewsalopek1/healthcare-mcp-public):
+To install Healthcare Data and Medical Information Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@andrewsalopek1/healthcare-mcp-server):
 
 ```bash
-npx -y @smithery/cli install @andrewsalopek1/healthcare-mcp-public --client claude
+npx -y @smithery/cli install @andrewsalopek1/healthcare-mcp-server --client claude
 ```
 
 ### Option 3: npm Installation
@@ -62,8 +62,8 @@ npx -y @smithery/cli install @andrewsalopek1/healthcare-mcp-public --client clau
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/andrewsalopek1/healthcare-mcp-public.git
-   cd healthcare-mcp-public/server
+   git clone https://github.com/andrewsalopek1/healthcare-mcp-server.git
+   cd healthcare-mcp-server/server
    ```
 
 2. Install dependencies:
